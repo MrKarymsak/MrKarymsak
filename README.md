@@ -1,6 +1,6 @@
   
 <div align="center">
-  <img src=""C:\Users\mrkar_7ywbg\OneDrive\Рабочий стол\Nfac\logo-data-analysis-big-data-analytics-png-favpng-iNJ7PkjYKLcDNprNyQWiSaLSP.jpg"" width="300" alt="Welcome Logo">
+  <img src="5286634b-3deb-4612-be2b-1272a9295b59.png" width="600" height="600" alt="Welcome Logo">
 </div>
 
 <h2 align="center">Welcome to my GitHub 👋</h2>
