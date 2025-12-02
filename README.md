@@ -1,18 +1,16 @@
-<p align="center">
+<div align="center">
 <img scr="https://therumzzline.com/portfolio/data-analytics-logo-isometric-logo-d-for-data/">
-</p>  
+</div>  
   
 
-### <div align="center">Hello there! I'm a full-time full-stack freelance QAEngineer</div>  
+### <div align="center">Hello there! I'm a full-time full-stack freelance Data analyst</div>  
   
 
 - 🔭 I’m currently studying on @(https://www.nfactorial.school/)  
   
 
-- Extensive background in automation of Front/Back-End testing, REST API, Client/Server, Cloud Based, Desktop and Mobile Applications.  
-  
-
-- Skills in building, writing and executing Agile, SCRUM, Waterfall software testing methodologies and knowledge of SDLC, regression and Performance testing  
+- Buildibg my skills in Excel/Google Sheets, getting confident in Power BI going forward to be proficient at Phyton
+- Feel Free To Text Me - [Text me](https://t.me/mrKarymsak)
   
 
 <br/>  
