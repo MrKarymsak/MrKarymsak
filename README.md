@@ -8,7 +8,7 @@
 ### <div align="center">Hello there! I'm a full-time full-stack freelance Data analyst</div>  
   
 
-- 🔭 I’m currently studying on @(https://www.nfactorial.school/)  
+- 🔭 I’m currently studying at @(https://www.nfactorial.school/)  
   
 
 - Buildibg my skills in Excel/Google Sheets, getting confident in Power BI going forward to be proficient at Phyton
