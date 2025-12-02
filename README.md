@@ -1,6 +1,6 @@
-<div align="center">
-<https://therumzzline.com/portfolio/data-analytics-logo-isometric-logo-d-for-data/>
-</div>  
+<p align="center">
+<img scr="https://therumzzline.com/portfolio/data-analytics-logo-isometric-logo-d-for-data/">
+</p>  
   
 
 ### <div align="center">Hello there! I'm a full-time full-stack freelance QAEngineer</div>  
