@@ -1,5 +1,5 @@
 <div align="center">
-<img scr="https://therumzzline.com/portfolio/data-analytics-logo-isometric-logo-d-for-data/">
+<img src="https://therumzzline.com/portfolio/data-analytics-logo-isometric-logo-d-for-data/">
 </div>  
   
 
