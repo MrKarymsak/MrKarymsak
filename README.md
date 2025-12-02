@@ -1,12 +1,12 @@
 <div align="center">
-<img src="[https://i.pinimg.com/originals/c9/6e/37/c96e371eec8f7b952334a7425bc8ad15.jpg" align="center" style="width: 100%](https://www.nfactorial.school/courses_new)" />
+<img src="[https://i.pinimg.com/originals/c9/6e/37/c96e371eec8f7b952334a7425bc8ad15.jpg" align="center" style="width: 100%]()" />
 </div>  
   
 
 ### <div align="center">Hello there! I'm a full-time full-stack freelance QAEngineer</div>  
   
 
-- 🔭 I’m currently studying on @QAatSyliconeValleyCalifornia  
+- 🔭 I’m currently studying on @(https://www.nfactorial.school/)  
   
 
 - Extensive background in automation of Front/Back-End testing, REST API, Client/Server, Cloud Based, Desktop and Mobile Applications.  
