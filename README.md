@@ -10,7 +10,7 @@
   
 
 - Buildibg my skills in Excel/Google Sheets, getting confident in Power BI going forward to be proficient at Phyton
-- Feel Free To Text Me - [Text me](https://t.me/mrKarymsak)
+- Feel Free To - [Text me](https://t.me/mrKarymsak)
   
 
 <br/>  
